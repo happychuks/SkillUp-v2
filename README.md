@@ -63,10 +63,10 @@ Inside Client & Server install with npm
 ## Project Team
 
 - [Happy Felix Chukwuma](https://github.com/happychuks)
-- Eloka Chiejina (https://github.com/elokac)
-- Boluwatife Badru (https://github.com/Bbadru)
-- Joyful-Victory Chidinma (https://github.com/Joy-4321)
-- Aliyu Lukman (https://github.com/Aalukis1)
+- [Eloka Chiejina](https://github.com/elokac)
+- [Boluwatife Badru](https://github.com/Bbadru)
+- [Joyful-Victory Chidinma](https://github.com/Joy-4321)
+- [Aliyu Lukman](https://github.com/Aalukis1)
 
 ## Acknowledgements
 
