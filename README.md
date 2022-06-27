@@ -2,8 +2,6 @@
 
 SkillUp is a ed-tech platform where anybody can browse for what they want to learn and can enroll and earn a skill for themselves. This Project is build as part of Microsoft ATO / Elev8 Upskilling Software Development Program Curriculum project and completed in duration of 2 weeks.
 
-## Demo
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
