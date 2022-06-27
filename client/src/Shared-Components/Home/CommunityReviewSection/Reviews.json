@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Happy Felix Chukwuma",
+    "certi": "Backend Software Development",
+    "place": "Microsoft ATO/Elev8",
+    "review": "This SkillUp Platform has allowed me to get a foot in the door for the roles I went after, thereby allowing me to convert an offer.",
+    "image": ""
+  },
+  {
+    "name": "Chiejina Eloka",
+    "certi": "Cloud DevOps",
+    "place": "Microsoft ATO/Elev8",
+    "review": "The most amazing thing about this SkillUp Learning Portal is the certified and experienced instructors.",
+    "image": ""
+  },
+  {
+    "name": "Joyful-Victory Chidinma",
+    "certi": "UI/UX Design",
+    "place": "Microsoft ATO/Elev8",
+    "review": "Microsoft's ATO Upskilling program certificate allowed me to get a foot in the door for the roles I went after, thereby allowing me to convert an offer.",
+    "image": ""
+  },
+  {
+    "name": "Aliyu Lukman",
+    "certi": "Frontend Software Development",
+    "place": "Microsoft ATO/Elev8",
+    "review": "Microsoft's ATO Upskilling program certificate allowed me to get a foot in the door for the roles I went after, thereby allowing me to convert an offer.",
+    "image": ""
+  },
+  {
+    "name": "Badru Boluwatife",
+    "certi": "Frontend Software Development",
+    "place": "Microsoft ATO/Elev8",
+    "review": "Microsoft's ATO Upskilling program certificate allowed me to get a foot in the door for the roles I went after, thereby allowing me to convert an offer.",
+    "image": ""
+  }
+]
